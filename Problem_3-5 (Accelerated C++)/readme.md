@@ -12,8 +12,9 @@ Simple starter C++ project with:
 
 ## Standard install via command-line
 ```
-git clone --recursive https://github.com/dpiet/cpp-boilerplate
+git clone https://github.com/arunumd/ENPM808X_Assignments_and_Projects.git
 cd <path to repository>
+cd Problem_3-5 (Accelerated C++)
 mkdir build
 cd build
 cmake ..
