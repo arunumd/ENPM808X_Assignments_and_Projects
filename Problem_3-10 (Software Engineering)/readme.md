@@ -14,7 +14,7 @@ Simple starter C++ project with:
 ```
 git clone https://github.com/arunumd/ENPM808X_Assignments_and_Projects.git
 cd <path to repository>
-cd <path to individual Programming tasks folders>
+cd Problem_3-10 (Software Engineering)
 mkdir build
 cd build
 cmake ..
